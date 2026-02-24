@@ -31,11 +31,11 @@
     "@actions/cache": "^5.0.1",
     "@actions/core": "^1.11.1",
     "@actions/exec": "^1.1.1",
-    "@actions/github": "^6.0.1",
+    "@actions/github": "^8.0.1",
     "@actions/glob": "^0.5.0",
     "@actions/http-client": "^2.2.1",
     "@actions/io": "^1.0.2",
-    "@actions/tool-cache": "^2.0.2",
+    "@actions/tool-cache": "^3.0.0",
     "semver": "^7.6.3",
     "uuid": "^11.1.0"
   },
